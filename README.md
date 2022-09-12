@@ -1,6 +1,7 @@
 - 👋 Hi, I’m khushboo gupta.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++.
+- I am familiar with C , C++ and python.
+- 🌱 I’m currently learning data structure.
 - 💞️ I’m looking to collaborate on basic development projects.
 - 📫 How to reach me .Email me at kgupta8646@gmail.com.
 
