@@ -1,8 +1,8 @@
 - 👋 Hi, I’m khushboo gupta.
-- 👀 I’m interested in coding.
-- I am familiar with C , C++ and python.
-- 🌱 I’m currently learning data structure.
-- 💞️ I’m looking to collaborate on basic development projects.
+- 👀 I have a keen interest in Problem Solving and Web Development.
+- I am familiar with techstacks like C++ , C , Python ,  React.js , javascript , html , css  .
+- 🌱 I’m currently exploring Full Stack Development and Android Development..
+- 💞️ I’m looking to collaborate on interesting Development projects.
 - 📫 How to reach me .Email me at kgupta8646@gmail.com.
 
 <!---
